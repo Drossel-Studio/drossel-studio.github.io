@@ -32,7 +32,7 @@ github_username:  jekyll
 # Build settings
 # theme: minima
 # theme: jekyll-theme-clean-blog
-remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+remote_theme: "StartBootstrap/startbootstrap-clean-blog-jekyll"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
