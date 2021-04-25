@@ -30,3 +30,4 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "github-pages", "~> 213", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
