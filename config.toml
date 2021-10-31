@@ -1,7 +1,9 @@
-baseURL = "http://drossel.studio/"
+baseURL = "https://www.drossel.studio/"
 languageCode = "ja-jp"
 title = "Drossel Studio"
 theme = "timer-hugo"
+publishDir = "docs"
+canonifyurls = true
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
@@ -97,5 +99,7 @@ subtitle= ""
 # icon = "ion-social-linkedin"
 # url = "#"
 
+# HTMLタグ埋め込みの有効化
 [markup.goldmark.renderer]
 unsafe= true
+
