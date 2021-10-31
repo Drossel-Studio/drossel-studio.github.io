@@ -2,7 +2,6 @@ baseURL = "https://www.drossel.studio/"
 languageCode = "ja-jp"
 title = "Drossel Studio"
 theme = "timer-hugo"
-publishDir = "docs"
 canonifyurls = true
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
