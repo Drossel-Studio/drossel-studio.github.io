@@ -37,8 +37,8 @@ home = "Home"
 logo = "images/logo.png"
 dateFormat = "6 January 2006"
 # Meta data
-description = "Airspace Hugo theme"
-author = "Themefisher"
+description = "Drossel/Studioはゲームを中心に様々なデジタルコンテンツを開発するサークルです。"
+author = "Drossel/Studio"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
@@ -67,7 +67,7 @@ title   = "FATHER"
 [params.about]
 enable  = true
 title   = "ABOUT"
-content = "Drossel Studioはゲームを中心に様々なデジタルコンテンツを開発するサークルです。"
+content = "Drossel/Studioはゲームを中心に様々なデジタルコンテンツを開発するサークルです。"
 image   = "images/DS/DSlogo2.png"
 
 # Call to Action
