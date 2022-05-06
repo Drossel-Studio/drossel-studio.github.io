@@ -17,7 +17,6 @@ category: ["音楽ゲーム"]
 <div style="font-size: xx-large;color:red">和風スマホ音ゲー第二弾！</div>  
 <div style="font-size: xx-large;color:red">迫り来る敵を駆って叩いて斬りまくれ！</div>
 
-<img width="755" alt="スクリーンショット 2021-09-18 20 24 16" src="https://user-images.githubusercontent.com/7980810/167072132-f5a2e5a3-1903-438a-a03a-c7b8ddf28939.png">
 
 
 叩いて、斬って、奔り鳴らせ！
