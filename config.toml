@@ -47,7 +47,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/slider.jpg"
+bgImage = "images/header.png"
 heading = ""
 description = ""
 # button
