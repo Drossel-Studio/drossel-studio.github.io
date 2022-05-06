@@ -223,7 +223,7 @@
 	margin-right: -100%;
 	padding: 2px 20px;
 	background: transparent; /* Fallback for web browsers that doesn't support RGBa */
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(0, 0, 0, 1);
 	-webkit-border-radius: 15px;
 	   -moz-border-radius: 15px;
 	        border-radius: 15px;
@@ -251,7 +251,7 @@
 	color: #fff;
 	padding: 10px;
 	background: #000;
-	background: rgba(0, 0, 0, .8);
+	background: rgba(0, 0, 0, 1);
 }
 
 /*Retina graphics!*/
