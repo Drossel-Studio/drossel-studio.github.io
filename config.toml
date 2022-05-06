@@ -56,12 +56,12 @@ btnText = "Download More"
 btnURL  = "https://themefisher.com/"
 
 # flip text
-[[params.banner.flipText]]
-title   = "DESIGNER"
-[[params.banner.flipText]]
-title   = "DEVELOPER"
-[[params.banner.flipText]]
-title   = "FATHER"
+#[[params.banner.flipText]]
+#title   = "DESIGNER"
+#[[params.banner.flipText]]
+#title   = "DEVELOPER"
+#[[params.banner.flipText]]
+#title   = "FATHER"
 
 # Homepage About Section
 [params.about]
