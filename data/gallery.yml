@@ -1,4 +1,4 @@
 enable  : true
 galleryImages :
-  - image : images/DS/kotonone.png
-  - image : images/DS/shinobi.jpg
+  - image : images/portfolio/hp_card_kotonone.png
+  - image : images/portfolio/hp_card_shino.png
