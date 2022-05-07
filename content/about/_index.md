@@ -1,7 +1,6 @@
 ---
-title: "About Us"
-date: 2018-07-12T18:19:33+06:00
-description : "This is meta description"
-draft: true
+title: "活動履歴"
+date: 2022-05-07T00:00:00+09:00
+description : "過去の活動履歴"
 ---
 
