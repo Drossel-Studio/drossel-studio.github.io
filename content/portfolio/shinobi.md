@@ -4,7 +4,7 @@ type: portfolio
 date: 2018-07-12T16:54:54+06:00
 description : "シノビスラッシュ"
 # caption: Product Mockup
-image: images/DS/shinobi.jpg
+image: images/DS/shinobi.png
 category: ["音楽ゲーム"]
 # liveLink: https://www.themefisher.com
 # client: Julia Robertson

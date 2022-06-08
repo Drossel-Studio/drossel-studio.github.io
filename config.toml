@@ -30,7 +30,7 @@ weight  = 5
 # Site Params
 [params]
 home = "Home"
-logo = "images/DS/DSlogo_small.png"
+logo = "images/DS/hpHeader.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "Drossel/Studioはゲームを中心に様々なデジタルコンテンツを開発するサークルです。"
